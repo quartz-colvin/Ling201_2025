@@ -28,10 +28,10 @@ This is an R Markdown document serving as the directory. You could find links to
 
 <br><br>
 
-#### **Week 01**: [Introduction](https://merlinudinov.github.io/ling201recitation/20250905) (Sept 05)
+#### **Week 01**: Introduction (Sept 05)
 <br>
 
-#### **Week 02**: Morphology I (Sep 12)
+#### **Week 02**: [Morphology I](https://quartz-colvin.github.io/Ling201_Week2/#1) (Sep 12)
 <br>
 
 #### **Week 03**: Morphology II (Sep 19)
