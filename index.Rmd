@@ -38,8 +38,8 @@ This is an R Markdown document serving as the directory. You could find links to
 [Homework 1](https://rutgers.instructure.com/courses/357158/files?preview=51797433)
 <br><br>
 
-#### **Week 04**: Syntax I (Sep 26)
-Homework 2
+#### **Week 04**: [Syntax I](https://quartz-colvin.github.io/Ling201_Week4/#1) (Sep 26)
+[Homework 2](https://rutgers.instructure.com/courses/357158/files/52000198?wrap=1)
 <br><br>
 
 #### **Week 05**: Syntax II (Oct 03)
