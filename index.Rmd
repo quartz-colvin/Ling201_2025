@@ -49,7 +49,7 @@ This is an R Markdown document serving as the directory. You could find links to
 #### **Week 06**: Review & Exam (Oct 10)
 <br>
 
-#### **Week 07**: Semantics I (Oct 17)
+#### **Week 07**: [Semantics I](https://quartz-colvin.github.io/Ling201_Week7/) (Oct 17)
 <br>
 
 #### **Week 08**: Semantics II (Oct 24)
