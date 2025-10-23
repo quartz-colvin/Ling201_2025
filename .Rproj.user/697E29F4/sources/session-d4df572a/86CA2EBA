@@ -3,7 +3,7 @@
     "path": "C:/Users/court/OneDrive/Desktop/Ling201_2025/Ling201_2025/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "2146557788",
+    "hash": "815067911",
     "contents": "",
     "dirty": false,
     "created": 1759289077835.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "53,0",
-        "scrollLine": "46"
+        "cursorPosition": "55,81",
+        "scrollLine": "51"
     },
     "folds": "",
-    "lastKnownWriteTime": 1761180234,
+    "lastKnownWriteTime": 1761180444,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1761180234855,
+    "last_content_update": 1761180444763,
     "read_only": false,
     "read_only_alternatives": []
 }
