@@ -56,8 +56,8 @@ This is an R Markdown document serving as the directory. You could find links to
 [Homework 4](https://rutgers.instructure.com/courses/357158/files/52898205?wrap=1)
 <br><br>
 
-#### **Week 09**: Pragmatics (Oct 31)
-Homework 5
+#### **Week 09**: [Pragmatics](https://quartz-colvin.github.io/Ling201_Week9/) (Oct 31)
+[Homework 5](https://rutgers.instructure.com/courses/357158/files/53063368?wrap=1)
 <br><br>
 
 #### **Week 10**: Phonetics I (Nov 07)
