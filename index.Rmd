@@ -60,12 +60,12 @@ This is an R Markdown document serving as the directory. You could find links to
 [Homework 5](https://rutgers.instructure.com/courses/357158/files/53063368?wrap=1)
 <br><br>
 
-#### **Week 10**: Phonetics I (Nov 07)
-<br>
+#### **Week 10**: [Phonetics I](https://quartz-colvin.github.io/Ling201_Week10/) (Nov 07)
+[Homework 6](https://rutgers.instructure.com/courses/357158/files/53297500?wrap=1)
+<br><br>
 
 #### **Week 11**: Phonetics II (Nov 14)
-Homework 6
-<br><br>
+<br>
 
 #### **Week 12**: Phonology I (Nov 21)
 Homework 7
