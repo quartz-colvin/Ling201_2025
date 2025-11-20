@@ -67,12 +67,12 @@ This is an R Markdown document serving as the directory. You could find links to
 #### **Week 11**: [Phonetics II](https://quartz-colvin.github.io/Ling201_Week11/) (Nov 14)
 <br>
 
-#### **Week 12**: Phonology I (Nov 21)
-Homework 7
+#### **Week 12**: [Phonology I](https://quartz-colvin.github.io/Ling201_Week12/) (Nov 21)
+[Homework 7](https://rutgers.instructure.com/courses/357158/files/53663852?wrap=1)
 <br><br>
 
 #### **Week 13**: Phonology II (Nov 26)
-Wednesday recitation class, Thanksgiving adjustment
+Wednesday asynchronous work, Thanksgiving adjustment. NO IN-PERSON CLASS THIS WEEK.
 <br><br>
 
 #### **Week 14**: Phonology III (Dec 05)
