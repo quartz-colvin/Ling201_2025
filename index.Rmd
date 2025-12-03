@@ -75,8 +75,9 @@ This is an R Markdown document serving as the directory. You could find links to
 Wednesday asynchronous work, Thanksgiving adjustment. NO IN-PERSON CLASS THIS WEEK.
 <br><br>
 
-#### **Week 14**: Phonology III (Dec 05)
-<br>
+#### **Week 14**: [Phonology III](https://quartz-colvin.github.io/Ling201_Week13/) (Dec 05)
+[Homework 8](https://rutgers.instructure.com/courses/357158/files/54030969?wrap=1)
+<br><br>
 
 #### **Final Exam**: Friday, Dec. 19, 12:00 – 3:00 pm, ABE, Room 1180
 
